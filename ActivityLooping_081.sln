@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ActivityLooping_081", "ActivityLooping_081\ActivityLooping_081.vcxproj", "{312B9622-4369-4046-AB49-9F2D16B968A5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "online class looping", "online class looping\online class looping.vcxproj", "{1308E7F7-2CB5-4711-A693-67C344950D57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{312B9622-4369-4046-AB49-9F2D16B968A5}.Release|x64.Build.0 = Release|x64
 		{312B9622-4369-4046-AB49-9F2D16B968A5}.Release|x86.ActiveCfg = Release|Win32
 		{312B9622-4369-4046-AB49-9F2D16B968A5}.Release|x86.Build.0 = Release|Win32
+		{1308E7F7-2CB5-4711-A693-67C344950D57}.Debug|x64.ActiveCfg = Debug|x64
+		{1308E7F7-2CB5-4711-A693-67C344950D57}.Debug|x64.Build.0 = Debug|x64
+		{1308E7F7-2CB5-4711-A693-67C344950D57}.Debug|x86.ActiveCfg = Debug|Win32
+		{1308E7F7-2CB5-4711-A693-67C344950D57}.Debug|x86.Build.0 = Debug|Win32
+		{1308E7F7-2CB5-4711-A693-67C344950D57}.Release|x64.ActiveCfg = Release|x64
+		{1308E7F7-2CB5-4711-A693-67C344950D57}.Release|x64.Build.0 = Release|x64
+		{1308E7F7-2CB5-4711-A693-67C344950D57}.Release|x86.ActiveCfg = Release|Win32
+		{1308E7F7-2CB5-4711-A693-67C344950D57}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
